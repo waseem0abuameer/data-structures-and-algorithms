@@ -1,0 +1,16 @@
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net5.0\array-insert-shift.exe
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net5.0\array-insert-shift.deps.json
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net5.0\array-insert-shift.runtimeconfig.json
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net5.0\array-insert-shift.runtimeconfig.dev.json
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net5.0\array-insert-shift.dll
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\bin\Debug\net5.0\array-insert-shift.pdb
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.dll
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\refint\array-insert-shift.dll
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.pdb
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\array-insert-shift.genruntimeconfig.cache
+\\wsl.localhost\Ubuntu\home\waseem\waseemDemo\data-structures-and-algorithms\array-insert-shift\array-insert-shift\obj\Debug\net5.0\ref\array-insert-shift.dll
