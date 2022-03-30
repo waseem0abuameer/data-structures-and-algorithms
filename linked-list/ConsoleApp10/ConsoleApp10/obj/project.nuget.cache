@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XTDZ38fjqXtWnCnyFQdktCp2Nvb22/2cJhlZY/U6kUvC3UwuMb/ESMi6ZhoUvHSmd9h6+ekzqUp+kEjAM7shXg==",
+  "dgSpecHash": "uvVJAPl9F+9J0GpVitbYo4oNmGTWAaph6ZYRr9THIOaSEpyGL68xy9wi5tsEdFmqfdxvm/xj5RJ1VK4mJm9QCg==",
   "success": true,
-  "projectFilePath": "H:\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\linked-list\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
