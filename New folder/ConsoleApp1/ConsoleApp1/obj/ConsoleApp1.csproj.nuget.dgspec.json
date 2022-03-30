@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\linked-list\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj": {}
+    "H:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\linked-list\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj": {
+    "H:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\linked-list\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
-        "projectName": "ConsoleApp10",
-        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\linked-list\\ConsoleApp10\\ConsoleApp10\\ConsoleApp10.csproj",
+        "projectUniqueName": "H:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "H:\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\96278\\.nuget\\packages\\",
-        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\linked-list\\ConsoleApp10\\ConsoleApp10\\obj\\",
+        "outputPath": "H:\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\96278\\AppData\\Roaming\\NuGet\\NuGet.Config",
