@@ -6,7 +6,7 @@ k-th value from the end of a linked list.
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-!['this_image'](00.jpg)
+!['this_image'](Whiteboard.png)
 
 
 ## Approach & Efficiency
