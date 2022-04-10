@@ -1,0 +1,16 @@
+H:\code10\code10\bin\Debug\net5.0\code10.exe
+H:\code10\code10\bin\Debug\net5.0\code10.deps.json
+H:\code10\code10\bin\Debug\net5.0\code10.runtimeconfig.json
+H:\code10\code10\bin\Debug\net5.0\code10.runtimeconfig.dev.json
+H:\code10\code10\bin\Debug\net5.0\code10.dll
+H:\code10\code10\bin\Debug\net5.0\code10.pdb
+H:\code10\code10\obj\Debug\net5.0\code10.csproj.AssemblyReference.cache
+H:\code10\code10\obj\Debug\net5.0\code10.GeneratedMSBuildEditorConfig.editorconfig
+H:\code10\code10\obj\Debug\net5.0\code10.AssemblyInfoInputs.cache
+H:\code10\code10\obj\Debug\net5.0\code10.AssemblyInfo.cs
+H:\code10\code10\obj\Debug\net5.0\code10.csproj.CoreCompileInputs.cache
+H:\code10\code10\obj\Debug\net5.0\code10.dll
+H:\code10\code10\obj\Debug\net5.0\refint\code10.dll
+H:\code10\code10\obj\Debug\net5.0\code10.pdb
+H:\code10\code10\obj\Debug\net5.0\code10.genruntimeconfig.cache
+H:\code10\code10\obj\Debug\net5.0\ref\code10.dll
