@@ -9,3 +9,4 @@ Challenge | Title |
 | 04 | [linked-list-insertions](linked-list-insertions/README.md) |
 | 05 | [linked-list-kth](linked-list-kth/README.md) | 
  |06 | [linked-list-zip](linked-list-zip/README.md) |
+  |07| [Stacks and Queues](Stacks and Queues/README.md) |
