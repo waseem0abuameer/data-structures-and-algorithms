@@ -6,26 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp10
 {
-     class Node
-    {
-        
-            int data;
-            Node next;
-        public int Data
+     public class Node
         {
-            get { return data; }
-            set { data = value; }
-        }
-        public Node Next
-        {
-            get { return next; }    
-            set { next = value; }   
-        }
-        public Node(int value)
-        {
-            this.data = value;   
-            next = null;
-
+            public int data;
+            public Node next;
+            public Node(int d) { data = d; next = null; }
         }
 
 
