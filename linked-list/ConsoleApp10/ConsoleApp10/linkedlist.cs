@@ -22,8 +22,21 @@ namespace ConsoleApp10
 
                 head = new_node;
             }
+          public bool Includes(int data)
+            {
+                Node temp = head;
+                while (temp != null)
+                {
+                    if (temp.data == data)
+                    {
+                        return true;
+                    }
+                    temp = temp.next;
+                }
+                return false;
+            }
 
-            public void Display()
+            public void tostring()
                 {
                     Node Start = head;
                     if (Start == null)
