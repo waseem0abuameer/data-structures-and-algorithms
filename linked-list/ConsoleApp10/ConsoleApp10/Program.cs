@@ -19,7 +19,10 @@ namespace ConsoleApp10
 
                     l.push(10);
                     l.Display();
-
+                 if (l.Includes(10))
+                    Console.WriteLine("FOUND");
+                else
+                    Console.WriteLine("NOT FOUND");
         }
     }
 }
