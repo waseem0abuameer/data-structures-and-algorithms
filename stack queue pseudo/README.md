@@ -6,7 +6,8 @@ make a Queue using 2 Stack
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
 !['this_image'](1.0.png)
-
+!['this_image'](1.0.0.png)
+!['this_image'](test.png)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
