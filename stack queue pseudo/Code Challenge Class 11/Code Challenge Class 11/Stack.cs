@@ -7,64 +7,88 @@ using System.Threading.Tasks;
 namespace Code_Challenge_Class_11
 {
     public class Stack
-    { public int Count=0;
-        Node Top;
+    {
+        public Node Top { get; set; }
+        int count = 0;
         public Stack()
         {
-            Top = null;
+
         }
-        public void Push(int value)
+        public Stack(Node node)
         {
-            Node newNode = new Node(value);
+            Top = node;
+        }
+
+        public void push(int value)
+        {
+            Node node = new Node(value);
+            node.Next = Top;
+            Top = node;
+            count++;
+        }
+        public int Size()
+        {
+            return count;
+        }
+        public bool IsEmpty()
+        {
             if (Top == null)
             {
-                newNode.Next = null;
+                return true;
+            }
+            else
+                return false;
+        }
+        public int pop()
+        {
+            if (Top == null)
+            {
+                throw new Exception("Stack is empty");
+                return -1;
             }
             else
             {
-                newNode.Next = Top;
+                Node temp = Top;
+                Top = Top.Next;
+                temp.Next = null;
+                count--;
+                
+                return temp.Value;
             }
-
-            Top = newNode;
-            Count++;
         }
-
-        public void Pop()
+        public string peek()
         {
+
             if (Top == null)
-                throw new Exception("Empty Stack!");
-
-            Top = Top.Next;
-        }
-
-        public int Peek()
-        {
-            if (Top == null)
-                throw new Exception("Empty Stack!");
-
-            return Top.Value;
-        }
-
-        public bool IsEmpty()
-        {
-            return Top == null;
-        }
-        public void DisplayStack(Stack s)
-        {
-
-            // Create another stack
-            Stack s1 = new Stack();
-
-            // Until stack is empty
-            while (s.IsEmpty() != true)
             {
-                s1.Push(s.Peek());
+                throw new Exception("Stack is empty");
+            }
+            else
+            {
 
-                // Print the element
-                Console.Write(s1.Peek() + " ");
-                s.Pop();
+                return $"peek is {Top.Value}";
             }
         }
+        public string Print()
+        {
+            string Format = "";
 
+            if (Top == null)
+                return "Stack is Empty!";
+
+            else
+            {
+                Node current = Top;
+                while (current != null)
+                {
+                    Format += "[" + current.Value + "] -> ";
+                    current = current.Next;
+                }
+            }
+
+            Format += "NULL";
+
+            return Format;
+        }
     }
 }

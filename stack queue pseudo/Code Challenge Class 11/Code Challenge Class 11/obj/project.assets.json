@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11.csproj",
+      "projectUniqueName": "H:\\Resupmiet\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11.csproj",
       "projectName": "Code Challenge Class 11",
-      "projectPath": "H:\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11.csproj",
+      "projectPath": "H:\\Resupmiet\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11.csproj",
       "packagesPath": "C:\\Users\\96278\\.nuget\\packages\\",
-      "outputPath": "H:\\Code Challenge Class 11\\Code Challenge Class 11\\obj\\",
+      "outputPath": "H:\\Resupmiet\\Code Challenge Class 11\\Code Challenge Class 11\\Code Challenge Class 11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\96278\\AppData\\Roaming\\NuGet\\NuGet.Config",
