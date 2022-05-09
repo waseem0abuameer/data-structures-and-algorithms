@@ -6,7 +6,7 @@ tree data structure is a non-linear data structure because it does not store in 
 ![image](1.0.png)
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
-Big O(n)
+Big O(n*2h)
 
 ## API
 <!-- Description of each method publicly available in each of your trees -->
