@@ -5,8 +5,8 @@ namespace ConsoleApp1
     internal class Program
     {
         static void Main(string[] args)
-        {
-                        BinarySearchTree binarySearchTree = new BinarySearchTree(new Node(10));
+
+
             binarySearchTree.Add(2);
             binarySearchTree.Add(7);
             binarySearchTree.Add(2);
