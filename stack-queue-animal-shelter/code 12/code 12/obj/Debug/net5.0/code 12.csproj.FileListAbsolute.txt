@@ -14,3 +14,19 @@ H:\code 12\code 12\obj\Debug\net5.0\refint\code 12.dll
 H:\code 12\code 12\obj\Debug\net5.0\code 12.pdb
 H:\code 12\code 12\obj\Debug\net5.0\code 12.genruntimeconfig.cache
 H:\code 12\code 12\obj\Debug\net5.0\ref\code 12.dll
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.csproj.AssemblyReference.cache
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.GeneratedMSBuildEditorConfig.editorconfig
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.AssemblyInfoInputs.cache
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.AssemblyInfo.cs
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.csproj.CoreCompileInputs.cache
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.dll
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\refint\code 12.dll
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.pdb
+H:\Resupmiet\95\code 12\code 12\code 12\bin\Debug\net5.0\code 12.exe
+H:\Resupmiet\95\code 12\code 12\code 12\bin\Debug\net5.0\code 12.deps.json
+H:\Resupmiet\95\code 12\code 12\code 12\bin\Debug\net5.0\code 12.runtimeconfig.json
+H:\Resupmiet\95\code 12\code 12\code 12\bin\Debug\net5.0\code 12.runtimeconfig.dev.json
+H:\Resupmiet\95\code 12\code 12\code 12\bin\Debug\net5.0\code 12.dll
+H:\Resupmiet\95\code 12\code 12\code 12\bin\Debug\net5.0\code 12.pdb
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\code 12.genruntimeconfig.cache
+H:\Resupmiet\95\code 12\code 12\code 12\obj\Debug\net5.0\ref\code 12.dll
