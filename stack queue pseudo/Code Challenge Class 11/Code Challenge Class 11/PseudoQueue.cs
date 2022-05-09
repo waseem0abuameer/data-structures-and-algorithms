@@ -8,27 +8,56 @@ namespace Code_Challenge_Class_11
 {
     public class PseudoQueue
     {
-            Stack stack1 = new Stack();
-
-            Stack stack2 = new Stack();
+        public Stack One = new Stack();
+        public Stack Two = new Stack();
 
         public void Enqueue(int value)
         {
-            while( stack1.Count > 0)
+            if (One.Top == null)
             {
-                stack2.Push(stack1.Peek());
+                One.push(value);
             }
-            stack1.Push(value);
+            else
+            {
+                while (One.Top != null)
+                {
+                    Two.push(One.pop());
+                }
+                One.push(value);
+                while (Two.Top != null)
+                {
+                    One.push(Two.pop());
+                }
+            }
+            Console.WriteLine(One.Print());
+
         }
 
-        public int Dequeue()
+        public void Dequeue()
         {
-            int value = (int)stack1.Peek();
-            return value;
+            if (One.Top == null)
+            {
+                throw new Exception("Stack One Is Empty !");
+            }
+            else
+            {
+                One.pop();
+            }
+
         }
-       
-      
-      
+        public string peek()
+        {
+
+            if (One.Top == null)
+            {
+                throw new Exception("Stack One Is Empty !");
+            }
+            else
+            {
+
+                return $" {One.Top.Value}";
+            }
+        }
     }
-    }
+}
 

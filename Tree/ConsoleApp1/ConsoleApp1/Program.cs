@@ -6,9 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            
-           
-                  BinarySearchTree binarySearchTree = new BinarySearchTree(new Node(10));
+
             binarySearchTree.Add(2);
             binarySearchTree.Add(7);
             binarySearchTree.Add(2);
@@ -20,7 +18,6 @@ namespace ConsoleApp1
             binarySearchTree.Add(4);
 
             Console.WriteLine(binarySearchTree.ToString(binarySearchTree.InOrder(binarySearchTree.Root)));
-     
         }
     }
 }

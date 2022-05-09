@@ -42,13 +42,13 @@ An excellent example of a queue is a line of students in the food court of the U
 
 ## API
 <!-- Description of each method publicly available to your Stack and Queue-->
-# Stack methods:
+# Stack :
 
 - Push:  is used to inserts an object at the top of the Stack
 - Pop: is used to remove and returns the object at the top of the Stack.
 - Peek: is used to return the object at the top of the Stack without removing it. This method is similar to the Pop method, but Peek does not modify the Stack.
 - IsEmpty: returns a boolean indicating whether or not the stack is empty.
-# Queue methods:
+# Queue :
 - Enqueue: This method is used to add an object to the end of the Queue
 - Dequeue :method is used to returns the object at the beginning of the Queue
 - Peek: returns value of the node located at the front of the queue,This method is similar to the Dequeue method.
