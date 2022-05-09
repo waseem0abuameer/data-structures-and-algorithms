@@ -14,3 +14,19 @@ H:\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\refint\Code 
 H:\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.pdb
 H:\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.genruntimeconfig.cache
 H:\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\ref\Code Challenge Class 11.dll
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.csproj.AssemblyReference.cache
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.GeneratedMSBuildEditorConfig.editorconfig
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.AssemblyInfoInputs.cache
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.AssemblyInfo.cs
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.csproj.CoreCompileInputs.cache
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.dll
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\refint\Code Challenge Class 11.dll
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.pdb
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\bin\Debug\net5.0\Code Challenge Class 11.exe
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\bin\Debug\net5.0\Code Challenge Class 11.deps.json
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\bin\Debug\net5.0\Code Challenge Class 11.runtimeconfig.json
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\bin\Debug\net5.0\Code Challenge Class 11.runtimeconfig.dev.json
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\bin\Debug\net5.0\Code Challenge Class 11.dll
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\bin\Debug\net5.0\Code Challenge Class 11.pdb
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\Code Challenge Class 11.genruntimeconfig.cache
+H:\Resupmiet\Code Challenge Class 11\Code Challenge Class 11\Code Challenge Class 11\obj\Debug\net5.0\ref\Code Challenge Class 11.dll

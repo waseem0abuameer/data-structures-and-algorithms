@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ExFXeZfQTi/kE9/FQxBp/zKb4U5Vbs4lY3+6g+e9hR0nJbcf7po5uUw4b1Iblp3yZZ5llg+wzRtwrzn3tLvgHQ==",
+  "dgSpecHash": "oYivVQeLBW0vXzAsoA7Z6pznnkQYtZWkAdu9Ueacpks0U4i8Rsl4LxDAP0GNERDzI/tJPZFD4znUPQRrbVX0sQ==",
   "success": true,
-  "projectFilePath": "H:\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\stack-queue-brackets\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
