@@ -20,7 +20,7 @@ public class BalancedBrackets
             }
         }
 
-        char pop()
+        public  char pop()
         {
             if (top == -1)
             {
@@ -41,8 +41,8 @@ public class BalancedBrackets
         }
     }
 
-  
-    static Boolean isMatchingPair(char character1,
+
+    public static Boolean isMatchingPair(char character1,
                                   char character2)
     {
         if (character1 == '(' && character2 == ')')
@@ -55,8 +55,8 @@ public class BalancedBrackets
             return false;
     }
 
-   
-    static Boolean areBracketsBalanced(char[] exp)
+
+    public static Boolean areBracketsBalanced(char[] exp)
     {
     
         Stack<char> st = new Stack<char>();
