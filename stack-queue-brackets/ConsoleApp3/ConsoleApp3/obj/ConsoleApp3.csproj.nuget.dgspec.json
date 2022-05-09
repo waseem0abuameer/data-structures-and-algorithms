@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
+    "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\stack-queue-brackets\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "H:\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
+    "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\stack-queue-brackets\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectUniqueName": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\stack-queue-brackets\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "H:\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "projectPath": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\stack-queue-brackets\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "packagesPath": "C:\\Users\\96278\\.nuget\\packages\\",
-        "outputPath": "H:\\ConsoleApp3\\ConsoleApp3\\obj\\",
+        "outputPath": "\\\\wsl.localhost\\Ubuntu\\home\\waseem\\waseemDemo\\data-structures-and-algorithms1\\stack-queue-brackets\\ConsoleApp3\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\96278\\AppData\\Roaming\\NuGet\\NuGet.Config",
