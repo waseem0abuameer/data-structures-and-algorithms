@@ -1,0 +1,16 @@
+I:\linked list all\HashTable\HashTable\bin\Debug\net5.0\HashTable.exe
+I:\linked list all\HashTable\HashTable\bin\Debug\net5.0\HashTable.deps.json
+I:\linked list all\HashTable\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.json
+I:\linked list all\HashTable\HashTable\bin\Debug\net5.0\HashTable.runtimeconfig.dev.json
+I:\linked list all\HashTable\HashTable\bin\Debug\net5.0\HashTable.dll
+I:\linked list all\HashTable\HashTable\bin\Debug\net5.0\HashTable.pdb
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.csproj.AssemblyReference.cache
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.GeneratedMSBuildEditorConfig.editorconfig
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfoInputs.cache
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.AssemblyInfo.cs
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.csproj.CoreCompileInputs.cache
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.dll
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\refint\HashTable.dll
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.pdb
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\HashTable.genruntimeconfig.cache
+I:\linked list all\HashTable\HashTable\obj\Debug\net5.0\ref\HashTable.dll
