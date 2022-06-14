@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Text.RegularExpressions;
 
-namespace HashTable
+namespace HashTable 
 {
     public class HashTable
     {
@@ -94,6 +95,26 @@ namespace HashTable
             for (int i = 0; i < key.Length; i++)
                 cont++;
             return cont ;
+        }
+        public static string RepeatedWord(string phrase)
+        {
+            string[] words = phrase.Split(' ');
+
+            HashTable hashtable = new HashTable();
+
+            for (int i = 0; i < words.Length; i++)
+            {
+                string word = Regex.Replace(words[i].ToLower(), @"[^\w\d\s]", "");
+
+                if (hashtable.Contains(word))
+                {
+                    return hashtable.Get(word).Value;
+                }
+
+                hashtable.Set(word, word);
+            }
+
+            return "No Repeated Word";
         }
     }
 }
